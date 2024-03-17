@@ -1,0 +1,55 @@
+#features{
+
+    /*måste ändra margin-top så den inte behövs för att 
+    bilden inte är över brands (hitta en annan lösning!!!)*/
+
+    
+    margin-top: 300px;
+    margin-bottom: 100px;
+
+    
+
+    .features-options{    
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        
+
+
+    }
+
+    .container{
+        display: flex;
+    }
+
+    .content{
+        order: 2;
+        padding-left: 150px;
+        
+        
+
+
+    }
+
+    .feature-img{
+        order: 1;
+    }
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+}

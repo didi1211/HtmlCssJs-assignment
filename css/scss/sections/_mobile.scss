@@ -1,0 +1,20 @@
+#mobile{
+    background-color: $gray-100;
+    padding: 60px 0;
+
+    .how-title{
+        text-align: center;
+    }
+
+    .how-mobile{
+        padding-top: 50px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .info{
+        text-align: center;
+        padding-top: 40px;
+        
+    }
+}
