@@ -1,13 +1,22 @@
 #review{
 
+    background: $gradient-radial;
+
     padding: 60px 0;
 
 
     .container{
 
         display: flex;   
+        
 
     
+    }
+
+    .review-title{
+
+        padding-bottom: 80px;
+        
     }
 
     .review-text-btn{
@@ -15,6 +24,11 @@
         display: flex;
         gap: 15px;
         
+        
+    }
+
+    #review-img{
+        padding-left: 90px; 
     }
 
  

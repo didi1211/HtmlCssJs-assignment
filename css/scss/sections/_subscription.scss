@@ -1,0 +1,43 @@
+
+#subscription{
+
+    
+
+    .container{
+        background: $gray-100;
+        padding: 60px;
+        
+        
+    }
+
+    .sub-content{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .sub-text{
+        display: flex;
+        gap: 20px;
+    }
+
+    .sub-email {
+
+        width: 100%;
+    }
+    
+    .email-icon { 
+        color: $gray-400
+        
+    }
+    
+
+    
+
+
+
+
+
+
+
+
+}
